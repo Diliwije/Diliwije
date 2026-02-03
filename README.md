@@ -19,7 +19,7 @@
 </h1>
 
 <p align="center">
- <h3> 🎓 BSc (Hons) Software Engineering @ NSBM Green University (Expected 2027) </h3>h3> <br/>
+ <h3> 🎓 BSc (Hons) Software Engineering @ NSBM Green University (Expected 2027) </h3> <br/>
  <h3> 🔭 Building enterprise-grade applications with <b>Spring Boot</b>, <b>Angular</b>, and cloud-native DevOps</h3> <br/>
  <h3>🌱 Passionate about microservices, real-time systems, and secure architecture</h3> 
 </p>
